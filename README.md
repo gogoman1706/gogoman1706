@@ -5,17 +5,13 @@
   <img src="https://profile-counter.glitch.me/gogoman1706/count.svg" />
 </p>
 
-
+----------------------------------------
 I am passionnate about : 
-
-
-Music, 
-
-coding, 
-
-anime/manga,
-
-and drawing.
+**Music**, 
+**Coding**, 
+**Anime/Manga**,
+and **Drawing** !
+---------------------------------------
 
 
 
