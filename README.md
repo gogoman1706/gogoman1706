@@ -11,7 +11,7 @@
 
 <p align = "center">- 𝕃𝕒 𝕄𝕦𝕤𝕚𝕢𝕦𝕖 🎶
 	
-<p align = "center"- 𝕃𝕖𝕤 𝔸𝕟𝕚𝕞𝕖𝕤/𝕄𝕒𝕟𝕘𝕒𝕤 ⛩️
+<p align = "center">- 𝕃𝕖𝕤 𝔸𝕟𝕚𝕞𝕖𝕤/𝕄𝕒𝕟𝕘𝕒𝕤 ⛩️
 
 <p align = "center">- 𝕃𝕖   𝔻𝕖𝕤𝕤𝕚𝕟 ✍️
 
