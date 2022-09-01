@@ -1,6 +1,6 @@
 # <p align="center">𝕳𝖊𝖞, 𝕴'𝖒 𝕲𝖔𝖌𝖔𝖒𝖆𝖓</p>
 
-# <p align="center">Visitors</p>
+# <p align="center">🏯 Visitors 🏯</p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/gogoman1706/count.svg" />
 </p>
