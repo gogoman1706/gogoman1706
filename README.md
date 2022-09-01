@@ -5,11 +5,9 @@
   <img src="https://profile-counter.glitch.me/gogoman1706/count.svg" />
 </p>
 
-<p>
-	
-𝕁𝕖 𝕤𝕦𝕚𝕤 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕟𝕖́ 𝕡𝕒𝕣 :
+ < p align ="center">𝕁𝕖 𝕤𝕦𝕚𝕤 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕟𝕖́ 𝕡𝕒𝕣 :</p>
 
-- 𝕃𝕖 ℂ𝕠𝕕𝕒𝕘𝕖 🌠
+<p> - 𝕃𝕖 ℂ𝕠𝕕𝕒𝕘𝕖 🌠
 
 - 𝕃𝕒 𝕄𝕦𝕤𝕚𝕢𝕦𝕖 🎶
 	
