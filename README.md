@@ -5,15 +5,16 @@
   <img src="https://profile-counter.glitch.me/gogoman1706/count.svg" />
 </p>
 
- < p align ="center">𝕁𝕖 𝕤𝕦𝕚𝕤 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕟𝕖́ 𝕡𝕒𝕣 :</p>
+<p align = "center">𝕁𝕖 𝕤𝕦𝕚𝕤 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕟𝕖́ 𝕡𝕒𝕣 :</p>
 
-<p> - 𝕃𝕖 ℂ𝕠𝕕𝕒𝕘𝕖 🌠
+<p align = "center"> - 𝕃𝕖 ℂ𝕠𝕕𝕒𝕘𝕖 🌠
 
 - 𝕃𝕒 𝕄𝕦𝕤𝕚𝕢𝕦𝕖 🎶
 	
 - 𝕃𝕖𝕤 𝔸𝕟𝕚𝕞𝕖𝕤/𝕄𝕒𝕟𝕘𝕒𝕤 ⛩️
 
 - 𝕃𝕖   𝔻𝕖𝕤𝕤𝕚𝕟 ✍️
+
 </p>
 
 
